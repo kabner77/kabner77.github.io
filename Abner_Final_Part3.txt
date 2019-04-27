@@ -1,0 +1,3 @@
+Interactive notebook in MyBinder: https://mybinder.org/v2/gh/kabner77/kabner77.github.io/master?filepath=Abner_Kayla_Final_Part3.ipynb
+
+GitHub repo: https://github.com/kabner77/kabner77.github.io
