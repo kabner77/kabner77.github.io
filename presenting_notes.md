@@ -6,18 +6,17 @@ have up: mybinder, datasets
 
 ## 1 minute - dataset, story, and process for final article
 
-* dataset - both datasets derivatives of ODM project
-  * WineSpectator, CellarTracker
+* briefly about tasting notes, dataset - both datasets derivatives of ODM project
+  * WineSpectator (Top 100 List), CellarTracker
 * wanted to tell a story about wine words, but that will be with final dataset, not these intermediate ones.
   * how has use of words changed over time? 
-  * demo 
-* process: used my viz from part 2, and created two other vizzes. still related to wine and is interesting per the data source, but is a different data source. the purpose of the other two = mostly just to make ppl think critically about what data vizzes show. 
+  * demo of interactive plot
+* other vizzes: still related to wine and is interesting per the data source, but is a different data source. the purpose of the other two = mostly just to make ppl think critically about what data vizzes show. 
 
 ## 1 minute - discoveries about datasets
 
-* words that i thought were very common aren't really (youthful seen a few times, but small in the actual dataset)
 * experimented with cost by year plots and score by year b/c numbers, but weren't particularly interesting (up and down continually)
-* more interested in words, which is the spirit of this project too
+* more interested in words
 * licenses: per other prof: not allowed to share the data on its own, though it is web scraped. in aggregate i think is okay, like in this viz. 
 
 ## 1 minute - next steps
